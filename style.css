@@ -1,0 +1,24 @@
+h1{
+    color: brown;
+    background-color: aqua;
+    border: red 5px solid;
+    padding: 10px;
+}
+
+table{
+    border: black 2px solid;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center
+
+}
+th, td{
+    border: 1px solid black;
+    padding: 15px;
+    
+}
+th{
+    background: darkcyan;
+    font-size: 24px;
+}
